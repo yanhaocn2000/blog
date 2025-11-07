@@ -26,3 +26,7 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Backtest data
+btc_backtest_data.csv
+*.csv
